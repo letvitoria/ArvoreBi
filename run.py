@@ -4,7 +4,7 @@ class No:
         self.chave = chave
         self.esquerda = None
         self.direita = None
-
+#
 def inserir(raiz, chave):
     # Se a árvore (ou subárvore) estiver vazia, cria um novo nó
     if raiz is None:
